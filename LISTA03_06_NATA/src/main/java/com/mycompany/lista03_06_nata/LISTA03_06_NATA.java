@@ -23,14 +23,6 @@ public class LISTA03_06_NATA {
         float n3 = read.nextFloat();
         float media = (n1 + n2 + n3)/3;
         
-        System.out.println("Sua nota é: " + media);
-        if(media >= 6) {
-            System.out.println("Aluno aprovado.");
-        }
-        else {
-            System.out.println("Aluno reprovado.");
-        }
-        
-        
+        System.out.println("Sua média é: " + media);        
     }
 }

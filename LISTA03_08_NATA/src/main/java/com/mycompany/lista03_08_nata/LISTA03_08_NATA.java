@@ -13,7 +13,6 @@ public class LISTA03_08_NATA {
 
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
-        
         System.out.print("Digite a primeira nota: ");
         float n1 = ler.nextFloat();
         System.out.print("Digite a segunda nota: ");
